@@ -1,4 +1,4 @@
-# google-keep-clone
+# Google Keep Clone
 Created a clone of Google keeps application.
 Used React components for each changes made by the user.
 ## Technologies
