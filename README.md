@@ -2,9 +2,9 @@
 Created a clone of Google keeps application.
 Used React components for each changes made by the user.
 ##Technologies
--JavaScript
--Node.js
--Express.js
+- JavaScript
+- Node.js
+- Express.js
 -React.js
 ##Setup
 To run this project, install it locally using npm:
